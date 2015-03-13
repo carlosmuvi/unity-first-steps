@@ -1,0 +1,1903 @@
+fileFormatVersion: 2
+guid: a3b5594638e5d4a42b6d859fe5237150
+timeCreated: 1426243323
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: boy_idle1_left_0
+    21300002: boy_idle1_left_1
+    21300004: boy_idle1_left_2
+    21300006: boy_idle1_left_3
+    21300008: boy_idle1_left_4
+    21300010: boy_idle1_left_5
+    21300012: boy_idle1_left_6
+    21300014: boy_idle1_left_7
+    21300016: boy_idle1_left_8
+    21300018: boy_idle1_left_9
+    21300020: boy_idle1_left_10
+    21300022: boy_idle1_left_11
+    21300024: boy_idle1_left_12
+    21300026: boy_idle1_left_13
+    21300028: boy_idle1_left_14
+    21300030: boy_idle1_left_15
+    21300032: boy_idle1_left_16
+    21300034: boy_idle1_left_17
+    21300036: boy_idle1_left_18
+    21300038: boy_idle1_left_19
+    21300040: boy_idle1_left_20
+    21300042: boy_idle1_left_21
+    21300044: boy_idle1_left_22
+    21300046: boy_idle1_left_23
+    21300048: boy_idle1_left_24
+    21300050: boy_idle1_left_25
+    21300052: boy_idle1_left_26
+    21300054: boy_idle1_left_27
+    21300056: boy_idle1_left_28
+    21300058: boy_idle1_left_29
+    21300060: boy_idle1_left_30
+    21300062: boy_idle1_left_31
+    21300064: boy_idle1_left_32
+    21300066: boy_idle1_left_33
+    21300068: boy_idle1_left_34
+    21300070: boy_idle1_left_35
+    21300072: boy_idle1_left_36
+    21300074: boy_idle1_left_37
+    21300076: boy_idle1_left_38
+    21300078: boy_idle1_left_39
+    21300080: boy_idle1_left_40
+    21300082: boy_idle1_left_41
+    21300084: boy_idle1_left_42
+    21300086: boy_idle1_left_43
+    21300088: boy_idle1_left_44
+    21300090: boy_idle1_left_45
+    21300092: boy_idle1_left_46
+    21300094: boy_idle1_left_47
+    21300096: boy_idle1_left_48
+    21300098: boy_idle1_left_49
+    21300100: boy_idle1_left_50
+    21300102: boy_idle1_left_51
+    21300104: boy_idle1_left_52
+    21300106: boy_idle1_left_53
+    21300108: boy_idle1_left_54
+    21300110: boy_idle1_left_55
+    21300112: boy_idle1_left_56
+    21300114: boy_idle1_left_57
+    21300116: boy_idle1_left_58
+    21300118: boy_idle1_left_59
+    21300120: boy_idle1_left_60
+    21300122: boy_idle1_left_61
+    21300124: boy_idle1_left_62
+    21300126: boy_idle1_left_63
+    21300128: boy_idle1_left_64
+    21300130: boy_idle1_left_65
+    21300132: boy_idle1_left_66
+    21300134: boy_idle1_left_67
+    21300136: boy_idle1_left_68
+    21300138: boy_idle1_left_69
+    21300140: boy_idle1_left_70
+    21300142: boy_idle1_left_71
+    21300144: boy_idle1_left_72
+    21300146: boy_idle1_left_73
+    21300148: boy_idle1_left_74
+    21300150: boy_idle1_left_75
+    21300152: boy_idle1_left_76
+    21300154: boy_idle1_left_77
+    21300156: boy_idle1_left_78
+    21300158: boy_idle1_left_79
+    21300160: boy_idle1_left_80
+    21300162: boy_idle1_left_81
+    21300164: boy_idle1_left_82
+    21300166: boy_idle1_left_83
+    21300168: boy_idle1_left_84
+    21300170: boy_idle1_left_85
+    21300172: boy_idle1_left_86
+    21300174: boy_idle1_left_87
+    21300176: boy_idle1_left_88
+    21300178: boy_idle1_left_89
+    21300180: boy_idle1_left_90
+    21300182: boy_idle1_left_91
+    21300184: boy_idle1_left_92
+    21300186: boy_idle1_left_93
+    21300188: boy_idle1_left_94
+    21300190: boy_idle1_left_95
+    21300192: boy_idle1_left_96
+    21300194: boy_idle1_left_97
+    21300196: boy_idle1_left_98
+    21300198: boy_idle1_left_99
+    21300200: boy_idle1_left_100
+    21300202: boy_idle1_left_101
+    21300204: boy_idle1_left_102
+    21300206: boy_idle1_left_103
+    21300208: boy_idle1_left_104
+    21300210: boy_idle1_left_105
+    21300212: boy_idle1_left_106
+    21300214: boy_idle1_left_107
+    21300216: boy_idle1_left_108
+    21300218: boy_idle1_left_109
+    21300220: boy_idle1_left_110
+    21300222: boy_idle1_left_111
+    21300224: boy_idle1_left_112
+    21300226: boy_idle1_left_113
+    21300228: boy_idle1_left_114
+    21300230: boy_idle1_left_115
+    21300232: boy_idle1_left_116
+    21300234: boy_idle1_left_117
+    21300236: boy_idle1_left_118
+    21300238: boy_idle1_left_119
+    21300240: boy_idle1_left_120
+    21300242: boy_idle1_left_121
+    21300244: boy_idle1_left_122
+    21300246: boy_idle1_left_123
+    21300248: boy_idle1_left_124
+    21300250: boy_idle1_left_125
+    21300252: boy_idle1_left_126
+    21300254: boy_idle1_left_127
+    21300256: boy_idle1_left_128
+    21300258: boy_idle1_left_129
+    21300260: boy_idle1_left_130
+    21300262: boy_idle1_left_131
+    21300264: boy_idle1_left_132
+    21300266: boy_idle1_left_133
+    21300268: boy_idle1_left_134
+    21300270: boy_idle1_left_135
+    21300272: boy_idle1_left_136
+    21300274: boy_idle1_left_137
+    21300276: boy_idle1_left_138
+    21300278: boy_idle1_left_139
+    21300280: boy_idle1_left_140
+    21300282: boy_idle1_left_141
+    21300284: boy_idle1_left_142
+    21300286: boy_idle1_left_143
+    21300288: boy_idle1_left_144
+    21300290: boy_idle1_left_145
+    21300292: boy_idle1_left_146
+    21300294: boy_idle1_left_147
+    21300296: boy_idle1_left_148
+    21300298: boy_idle1_left_149
+    21300300: boy_idle1_left_150
+    21300302: boy_idle1_left_151
+    21300304: boy_idle1_left_152
+    21300306: boy_idle1_left_153
+    21300308: boy_idle_0
+    21300310: boy_idle_1
+    21300312: boy_idle_2
+    21300314: boy_idle_3
+    21300316: boy_idle_4
+    21300318: boy_idle_5
+    21300320: boy_idle_6
+    21300322: boy_idle_7
+    21300324: boy_idle_8
+    21300326: boy_idle_9
+    21300328: boy_idle_10
+    21300330: boy_idle_11
+    21300332: boy_idle_12
+    21300334: boy_idle_13
+    21300336: boy_idle_14
+    21300338: boy_idle_15
+    21300340: boy_idle_16
+    21300342: boy_idle_17
+    21300344: boy_idle_18
+    21300346: boy_idle_19
+    21300348: boy_idle_20
+    21300350: boy_idle_21
+    21300352: boy_idle_22
+    21300354: boy_idle_23
+    21300356: boy_idle_24
+    21300358: boy_idle_25
+    21300360: boy_idle_26
+    21300362: boy_idle_27
+    21300364: boy_idle_28
+    21300366: boy_idle_29
+    21300368: boy_idle_30
+    21300370: boy_idle_31
+    21300372: boy_idle_32
+    21300374: boy_idle_33
+    21300376: boy_idle_34
+    21300378: boy_idle_35
+    21300380: boy_idle_36
+    21300382: boy_idle_37
+    21300384: boy_idle_38
+    21300386: boy_idle_39
+    21300388: boy_idle_40
+    21300390: boy_idle_41
+    21300392: boy_idle_42
+    21300394: boy_idle_43
+    21300396: boy_idle_44
+    21300398: boy_idle_45
+    21300400: boy_idle_46
+    21300402: boy_idle_47
+    21300404: boy_idle_48
+    21300406: boy_idle_49
+    21300408: boy_idle_50
+    21300410: boy_idle_51
+    21300412: boy_idle_52
+    21300414: boy_idle_53
+    21300416: boy_idle_54
+    21300418: boy_idle_55
+    21300420: boy_idle_56
+    21300422: boy_idle_57
+    21300424: boy_idle_58
+    21300426: boy_idle_59
+    21300428: boy_idle_60
+    21300430: boy_idle_61
+    21300432: boy_idle_62
+    21300434: boy_idle_63
+    21300436: boy_idle_64
+    21300438: boy_idle_65
+    21300440: boy_idle_66
+    21300442: boy_idle_67
+    21300444: boy_idle_68
+    21300446: boy_idle_69
+    21300448: boy_idle_70
+    21300450: boy_idle_71
+    21300452: boy_idle_72
+    21300454: boy_idle_73
+    21300456: boy_idle_74
+    21300458: boy_idle_75
+    21300460: boy_idle_76
+    21300462: boy_idle_77
+    21300464: boy_idle_78
+    21300466: boy_idle_79
+    21300468: boy_idle_80
+    21300470: boy_idle_81
+    21300472: boy_idle_82
+    21300474: boy_idle_83
+    21300476: boy_idle_84
+    21300478: boy_idle_85
+    21300480: boy_idle_86
+    21300482: boy_idle_87
+    21300484: boy_idle_88
+    21300486: boy_idle_89
+    21300488: boy_idle_90
+    21300490: boy_idle_91
+    21300492: boy_idle_92
+    21300494: boy_idle_93
+    21300496: boy_idle_94
+    21300498: boy_idle_95
+    21300500: boy_idle_96
+    21300502: boy_idle_97
+    21300504: boy_idle_98
+    21300506: boy_idle_99
+    21300508: boy_idle_100
+    21300510: boy_idle_101
+    21300512: boy_idle_102
+    21300514: boy_idle_103
+    21300516: boy_idle_104
+    21300518: boy_idle_105
+    21300520: boy_idle_106
+    21300522: boy_idle_107
+    21300524: boy_idle_108
+    21300526: boy_idle_109
+    21300528: boy_idle_110
+    21300530: boy_idle_111
+    21300532: boy_idle_112
+    21300534: boy_idle_113
+    21300536: boy_idle_114
+    21300538: boy_idle_115
+    21300540: boy_idle_116
+    21300542: boy_idle_117
+    21300544: boy_idle_118
+    21300546: boy_idle_119
+    21300548: boy_idle_120
+    21300550: boy_idle_121
+    21300552: boy_idle_122
+    21300554: boy_idle_123
+    21300556: boy_idle_124
+    21300558: boy_idle_125
+    21300560: boy_idle_126
+    21300562: boy_idle_127
+    21300564: boy_idle_128
+    21300566: boy_idle_129
+    21300568: boy_idle_130
+    21300570: boy_idle_131
+    21300572: boy_idle_132
+    21300574: boy_idle_133
+    21300576: boy_idle_134
+    21300578: boy_idle_135
+    21300580: boy_idle_136
+    21300582: boy_idle_137
+    21300584: boy_idle_138
+    21300586: boy_idle_139
+    21300588: boy_idle_140
+    21300590: boy_idle_141
+    21300592: boy_idle_142
+    21300594: boy_idle_143
+    21300596: boy_idle_144
+    21300598: boy_idle_145
+    21300600: boy_idle_146
+    21300602: boy_idle_147
+    21300604: boy_idle_148
+    21300606: boy_idle_149
+    21300608: boy_idle_150
+    21300610: boy_idle_151
+    21300612: boy_idle_152
+    21300614: boy_idle_153
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: boy_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2679
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2679
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2679
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2679
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2679
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_5
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2679
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_6
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2679
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_7
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2679
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2538
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2538
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2538
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_11
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2538
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_12
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2538
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_13
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2538
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_14
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2538
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_15
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2538
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2397
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_17
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2397
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_18
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2397
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_19
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2397
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_20
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2397
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_21
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2397
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_22
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2397
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_23
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2397
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2256
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_25
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2256
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2256
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_27
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2256
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_28
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2256
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_29
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2256
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_30
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2256
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_31
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2256
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2115
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_33
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2115
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_34
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2115
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_35
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2115
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_36
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2115
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_37
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2115
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_38
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2115
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_39
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2115
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1974
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_41
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1974
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_42
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1974
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_43
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1974
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_44
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1974
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_45
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1974
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_46
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1974
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_47
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1974
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1833
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_49
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1833
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_50
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1833
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_51
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1833
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_52
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1833
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_53
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1833
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_54
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1833
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_55
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1833
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1692
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_57
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1692
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_58
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1692
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_59
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1692
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_60
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1692
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_61
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1692
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_62
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1692
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_63
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1692
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1551
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_65
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1551
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_66
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1551
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_67
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1551
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_68
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1551
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_69
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1551
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_70
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1551
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_71
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1551
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1410
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_73
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1410
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_74
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1410
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_75
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1410
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_76
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1410
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_77
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1410
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_78
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1410
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_79
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1410
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1269
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_81
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1269
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_82
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1269
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_83
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1269
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_84
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1269
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_85
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1269
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_86
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1269
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_87
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1269
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1128
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_89
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1128
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_90
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1128
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_91
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1128
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_92
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1128
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_93
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1128
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_94
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1128
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_95
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1128
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 987
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_97
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 987
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_98
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 987
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_99
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 987
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_100
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 987
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_101
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 987
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_102
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 987
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_103
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 987
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 846
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_105
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 846
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_106
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 846
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_107
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 846
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_108
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 846
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_109
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 846
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_110
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 846
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_111
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 846
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 705
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_113
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 705
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_114
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 705
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_115
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 705
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_116
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 705
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_117
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 705
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_118
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 705
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_119
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 705
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_121
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 564
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_122
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 564
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_123
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 564
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_124
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 564
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_125
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 564
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_126
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 564
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_127
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 564
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 423
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_129
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 423
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_130
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 423
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_131
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 423
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_132
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 423
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_133
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 423
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_134
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 423
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_135
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 423
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_137
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_138
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_139
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_140
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_141
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_142
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_143
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_145
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_146
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_147
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_148
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_149
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_150
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_151
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_idle_153
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
