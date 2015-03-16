@@ -3,7 +3,7 @@ using System.Collections;
 
 public class CharacterMovement : MonoBehaviour {
 
-	public int speed = 2;
+	public int speed = 1;
 	int orientation = -1;
 	//TODO unused, use to detect when char is on air.
 	bool landed = false;

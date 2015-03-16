@@ -3,13 +3,28 @@ using System.Collections;
 
 public class CharacterSpawn : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
-	
+	public Transform spawnPosition;
+	public GameObject spawnCharacter;
+	public int spawnCount;
+	public float spawnCooldown = 1;
+
+	private float timeUntilSpawn = 0;
+
+	public void Update()
+	{
+		timeUntilSpawn -= Time.deltaTime;
+
+		if(timeUntilSpawn <= 0 && spawnCount > 0)
+		{
+			SpawnEnemy();
+			spawnCount--;
+			timeUntilSpawn = spawnCooldown;
+		}
 	}
-	
-	// Update is called once per frame
-	void Update () {
-	
+
+	private void SpawnEnemy()
+	{
+		GameObject gameObject = Instantiate(spawnCharacter, spawnPosition.position, Quaternion.identity) as GameObject;
 	}
+
 }
