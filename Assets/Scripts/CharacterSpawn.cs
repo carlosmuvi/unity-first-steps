@@ -18,6 +18,7 @@ public class CharacterSpawn : MonoBehaviour {
 		{
 			SpawnEnemy();
 			spawnCount--;
+			ScoreManagement.existingChars++;
 			timeUntilSpawn = spawnCooldown;
 		}
 	}

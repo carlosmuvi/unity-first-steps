@@ -1,51 +1,33 @@
 fileFormatVersion: 2
-guid: 3283ba9e41b8e3d4b93318590003a9ef
-timeCreated: 1426243793
+guid: 95066abf10bf63140bb51898ed4c7c67
+timeCreated: 1426504719
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: boy_walk1_0
-    21300002: boy_walk1_1
-    21300004: boy_walk1_2
-    21300006: boy_walk1_3
-    21300008: boy_walk1_4
-    21300010: boy_walk1_5
-    21300012: boy_walk1_6
-    21300014: boy_walk1_7
-    21300016: boy_walk1_8
-    21300018: boy_walk1_9
-    21300020: boy_walk1_10
-    21300022: boy_walk1_11
-    21300024: boy_walk1_12
-    21300026: boy_walk1_13
-    21300028: boy_walk1_14
-    21300030: boy_walk1_15
-    21300032: boy_walk1_16
-    21300034: boy_walk1_17
-    21300036: boy_walk1_18
-    21300038: boy_walk1_19
-    21300040: boy_walk1_20
-    21300042: boy_walking_0
-    21300044: boy_walking_1
-    21300046: boy_walking_2
-    21300048: boy_walking_3
-    21300050: boy_walking_4
-    21300052: boy_walking_5
-    21300054: boy_walking_6
-    21300056: boy_walking_7
-    21300058: boy_walking_8
-    21300060: boy_walking_9
-    21300062: boy_walking_10
-    21300064: boy_walking_11
-    21300066: boy_walking_12
-    21300068: boy_walking_13
-    21300070: boy_walking_14
-    21300072: boy_walking_15
-    21300074: boy_walking_16
-    21300076: boy_walking_17
-    21300078: boy_walking_18
-    21300080: boy_walking_19
-    21300082: boy_walking_20
+    21300000: boy_walking2_0
+    21300002: boy_walking2_1
+    21300004: boy_walking2_2
+    21300006: boy_walking2_3
+    21300008: boy_walking2_4
+    21300010: boy_walking2_5
+    21300012: boy_walking2_6
+    21300014: boy_walking2_7
+    21300016: boy_walking2_8
+    21300018: boy_walking2_9
+    21300020: boy_walking2_10
+    21300022: boy_walking2_11
+    21300024: boy_walking2_12
+    21300026: boy_walking2_13
+    21300028: boy_walking2_14
+    21300030: boy_walking2_15
+    21300032: boy_walking2_16
+    21300034: boy_walking2_17
+    21300036: boy_walking2_18
+    21300038: boy_walking2_19
+    21300040: boy_walking2_20
+    21300042: boy_walking2_21
+    21300044: boy_walking2_22
+    21300046: boy_walking2_23
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -91,214 +73,244 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: boy_walking_0
+    - name: boy_walking2_0
       rect:
         serializedVersion: 2
         x: 0
         y: 282
         width: 124
         height: 141
-      alignment: 1
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: boy_walking_1
+    - name: boy_walking2_1
       rect:
         serializedVersion: 2
         x: 124
         y: 282
         width: 124
         height: 141
-      alignment: 1
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: boy_walking_2
+    - name: boy_walking2_2
       rect:
         serializedVersion: 2
         x: 248
         y: 282
         width: 124
         height: 141
-      alignment: 1
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: boy_walking_3
+    - name: boy_walking2_3
       rect:
         serializedVersion: 2
         x: 372
         y: 282
         width: 124
         height: 141
-      alignment: 1
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: boy_walking_4
+    - name: boy_walking2_4
       rect:
         serializedVersion: 2
         x: 496
         y: 282
         width: 124
         height: 141
-      alignment: 1
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: boy_walking_5
+    - name: boy_walking2_5
       rect:
         serializedVersion: 2
         x: 620
         y: 282
         width: 124
         height: 141
-      alignment: 1
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: boy_walking_6
+    - name: boy_walking2_6
       rect:
         serializedVersion: 2
         x: 744
         y: 282
         width: 124
         height: 141
-      alignment: 1
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: boy_walking_7
+    - name: boy_walking2_7
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_walking2_8
       rect:
         serializedVersion: 2
         x: 0
         y: 141
         width: 124
         height: 141
-      alignment: 1
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: boy_walking_8
+    - name: boy_walking2_9
       rect:
         serializedVersion: 2
         x: 124
         y: 141
         width: 124
         height: 141
-      alignment: 1
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: boy_walking_9
+    - name: boy_walking2_10
       rect:
         serializedVersion: 2
         x: 248
         y: 141
         width: 124
         height: 141
-      alignment: 1
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: boy_walking_10
+    - name: boy_walking2_11
       rect:
         serializedVersion: 2
         x: 372
         y: 141
         width: 124
         height: 141
-      alignment: 1
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: boy_walking_11
+    - name: boy_walking2_12
       rect:
         serializedVersion: 2
         x: 496
         y: 141
         width: 124
         height: 141
-      alignment: 1
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: boy_walking_12
+    - name: boy_walking2_13
       rect:
         serializedVersion: 2
         x: 620
         y: 141
         width: 124
         height: 141
-      alignment: 1
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: boy_walking_13
+    - name: boy_walking2_14
       rect:
         serializedVersion: 2
         x: 744
         y: 141
         width: 124
         height: 141
-      alignment: 1
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: boy_walking_14
+    - name: boy_walking2_15
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_walking2_16
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 124
         height: 141
-      alignment: 1
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: boy_walking_15
+    - name: boy_walking2_17
       rect:
         serializedVersion: 2
         x: 124
         y: 0
         width: 124
         height: 141
-      alignment: 1
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: boy_walking_16
+    - name: boy_walking2_18
       rect:
         serializedVersion: 2
         x: 248
         y: 0
         width: 124
         height: 141
-      alignment: 1
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: boy_walking_17
+    - name: boy_walking2_19
       rect:
         serializedVersion: 2
         x: 372
         y: 0
         width: 124
         height: 141
-      alignment: 1
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: boy_walking_18
+    - name: boy_walking2_20
       rect:
         serializedVersion: 2
         x: 496
         y: 0
         width: 124
         height: 141
-      alignment: 1
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: boy_walking_19
+    - name: boy_walking2_21
       rect:
         serializedVersion: 2
         x: 620
         y: 0
         width: 124
         height: 141
-      alignment: 1
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: boy_walking_20
+    - name: boy_walking2_22
       rect:
         serializedVersion: 2
         x: 744
         y: 0
         width: 124
         height: 141
-      alignment: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boy_walking2_23
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 0
+        width: 124
+        height: 141
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 

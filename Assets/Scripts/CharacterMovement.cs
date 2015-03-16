@@ -35,11 +35,13 @@ public class CharacterMovement : MonoBehaviour {
 
 	void OnTriggerEnter2D(Collider2D other) {
 		string tag = other.gameObject.tag;
-		if(tag == "floor"){
+		if (tag == "floor") {
 			landed = true;
-		}
-		else if(tag == "wall"){
-			Flip();
+		} else if (tag == "wall") {
+			Flip ();
+		} else if (tag == "door") {
+			Destroy(rigitbody.gameObject);
+			ScoreManagement.savedChars += 1;
 		}
 	}
 
